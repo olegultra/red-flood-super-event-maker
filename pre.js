@@ -1,4 +1,4 @@
-var tno_templates = [
+var rf_templates = [
     {
         x: 10,
         y: 40,
@@ -203,5 +203,5 @@ body {
 
 var templates = [];
 const urlParams = new URL(window.location.href).searchParams;
-templates = tno_templates;
+templates = rf_templates;
 document.getElementById("q-drop").innerHTML = document.getElementById("q-drop").innerText;
