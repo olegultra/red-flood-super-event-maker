@@ -42,7 +42,7 @@ body {
                 replaceable: true
             },
             {
-                type: "image", src: "diplo_upper_win_bg.png",
+                type: "image", src: "hyzzE6n.png",
                 x: 0, y: 0
             },
             {
