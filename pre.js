@@ -90,7 +90,7 @@ body {
             {
                 type: "circle",
                 x: 155, y: 174,
-                width: 63, height: 63,
+                width: 73, height: 73,
                 style: "border-radius: 50%; background-color: #888888;",
                 replaceable: true
             },
