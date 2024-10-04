@@ -89,8 +89,8 @@ body {
             },
             {
                 type: "circle",
-                x: 155, y: 174,
-                width: 73, height: 73,
+                x: 156, y: 174,
+                width: 63, height: 63,
                 style: "border-radius: 50%; background-color: #888888;",
                 replaceable: true
             },
