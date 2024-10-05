@@ -9,7 +9,7 @@ var rf_templates = [
 }
 @font-face {
     font-family: light;
-    src: url("Aldrich.ttf")
+    src: url("futura-light-bt.ttf")
 }
 .TNO-header-text {
     color: white;
@@ -72,19 +72,19 @@ body {
             {
                 type: "text", text: "Party Name",
                 x: 236, y: 71,
-                classes: ["TNO-info-text"], style: "font-size: 17px",
+                classes: ["TNO-header-text"], style: "font-size: 17px",
                 replaceable: true
             },
             {
                 type: "text", text: "Ideology",
                 x: 236, y: 94,
-                classes: ["TNO-info-text"], style: "font-size: 17px",
+                classes: ["TNO-header-text"], style: "font-size: 17px",
                 replaceable: true
             },
             {
                 type: "text", text: "Election Label",
                 x: 236, y: 117,
-                classes: ["TNO-info-text"], style: "font-size: 17px",
+                classes: ["TNO-header-text"], style: "font-size: 17px",
                 replaceable: true
             },
             {
@@ -108,7 +108,7 @@ body {
                 type: "text", text: "Focus Name",
                 x: 234, y: 160,
                 width: 272,
-                classes: ["TNO-info-text"], style: "font-size: 19px; text-align: center;",
+                classes: ["TNO-header-text"], style: "font-size: 19px; text-align: center;",
                 replaceable: true
             }
         ]
@@ -131,7 +131,7 @@ body {
                 type: "text", text: "Quote\n-A person",
                 x: 120, y: 287,
                 width: 455,
-                classes: ["TNO-header-text"], style: "font-size: 20px; text-align: right;",
+                classes: ["TNO-info-text"], style: "font-size: 20px; text-align: right;",
                 replaceable: true
             },
             {
