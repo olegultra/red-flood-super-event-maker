@@ -5,10 +5,10 @@ var rf_templates = [
         style: `
 @font-face {
     font-family: bomb;
-    src: url("Bombardier-Regular.ttf");
+    src: url("FuturaBT-Medium.ttf");
 }
 @font-face {
-    font-family: aldrich;
+    font-family: light;
     src: url("Aldrich.ttf")
 }
 .TNO-header-text {
