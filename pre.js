@@ -20,7 +20,7 @@ var rf_templates = [
     font-family: aldrich;
 }
 body {
-    background-color: #111111
+    background-color: #000000
 }
           `,
         elements: [
