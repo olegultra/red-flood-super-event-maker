@@ -5,7 +5,7 @@ var rf_templates = [
         style: `
 @font-face {
     font-family: bomb;
-    src: url("futura-bt-bold-italic.ttf");
+    src: url("futuramdbtrusbyme_medium.otf");
 }
 @font-face {
     font-family: light;
