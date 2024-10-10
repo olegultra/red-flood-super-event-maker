@@ -4,7 +4,7 @@ var rf_templates = [
         y: 40,
         style: `
 @font-face {
-    font-family: bomb;
+    font-family: futura-medium;
     src: url("futuramdbtrusbyme_medium.otf");
 }
 @font-face {
@@ -13,7 +13,7 @@ var rf_templates = [
 }
 .TNO-header-text {
     color: white;
-    font-family: bomb;
+    font-family: futura-medium;
 }
 .TNO-info-text {
     color: #B2C9C2;
