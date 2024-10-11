@@ -28,17 +28,17 @@ body {
                 id: "flag",
                 type: "image",
                 src: "flag_unknown.png",
-                x: 23,
-                y: 9,
+                x: 35,
+                y: 56,
                 width: 82,
-                height: 52,
+                height: 50,
                 replaceable: true
             },
             {
                 id: "portrait",
                 type: "image", src: "leader_unknown.png",
-                x: 5, y: 73,
-                width: 117, height: 156,
+                x: 18, y: 167,
+                width: 115, height: 154,
                 replaceable: true
             },
             {
@@ -53,19 +53,19 @@ body {
             },
             {
                 type: "text", text: "Country Name",
-                x: 214, y: -7,
+                x: 220, y: 32,
                 classes: ["TNO-header-text"], style: "font-size: 16px",
                 replaceable: true
             },
             {
                 type: "text", text: "Faction Name",
-                x: 214, y: 10,
+                x: 220, y: 61,
                 classes: ["TNO-header-text"], style: "font-size: 16px",
                 replaceable: true
             },
             {
                 type: "text", text: "Leader Name",
-                x: 214, y: 28,
+                x: 220, y: 82,
                 classes: ["TNO-header-text"], style: "font-size: 16px",
                 replaceable: true
             },
@@ -100,14 +100,14 @@ body {
             },*/
             {
                 type: "image", src: "заглушка.png",
-                x: 175, y: 191,
+                x: 190, y: 288,
                 classes: ["center"], style: "transform: scale(90%) translate(-50%, -55%);",
                 replaceable: true
             },
             {
                 type: "text", text: "Focus Name",
-                x: 234, y: 160,
-                width: 272,
+                x: 254, y: 255,
+                width: 240,
                 classes: ["TNO-header-text"], style: "font-size: 19px; text-align: center;",
                 replaceable: true
             }
@@ -119,8 +119,8 @@ body {
         elements: [
             {
                 type: "image", src: "superevent_unknown.png",
-                x: 8, y: 53,
-                width: 572, height: 390,
+                x: 25, y: 243,
+                width: 443, height: 228,
                 replaceable: true
             },
             {
@@ -129,21 +129,21 @@ body {
             },
             {
                 type: "text", text: "Quote\n-A person",
-                x: 120, y: 287,
-                width: 455,
-                classes: ["TNO-info-text"], style: "font-size: 20px; text-align: right;",
+                x: 58, y: 482,
+                width: 373,
+                classes: ["TNO-info-text"], style: "font-size: 20px; text-align: center;",
                 replaceable: true
             },
             {
                 type: "text", text: "Button Text",
-                x: 194, y: 439,
+                x: 144, y: 452,
                 width: 200,
                 classes: ["TNO-header-text"], style: "font-size: 20px; text-align: center; text-shadow: 1px 0 1px #000000, 0 1px 1px #000000, -1px 0 1px #000000, 0 -1px 1px #000000;",
                 replaceable: true
             },
             {
                 type: "text", text: "Event Title",
-                x: 45, y: -4,
+                x: 58, y: 525,
                 width: 500,
                 classes: ["TNO-info-text"], style: "font-size: 20px; text-align: center;",
                 replaceable: true
