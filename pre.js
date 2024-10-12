@@ -53,38 +53,44 @@ body {
             },
             {
                 type: "text", text: "Country Name",
-                x: 220, y: 32,
-                classes: ["TNO-header-text"], style: "font-size: 16px",
+                x: 220, y: 34,
+                classes: ["TNO-header-text"], style: "font-size: 15px",
                 replaceable: true
             },
             {
                 type: "text", text: "Faction Name",
-                x: 220, y: 61,
-                classes: ["TNO-header-text"], style: "font-size: 16px",
+                x: 220, y: 62,
+                classes: ["TNO-header-text"], style: "font-size: 15px",
                 replaceable: true
             },
             {
                 type: "text", text: "Leader Name",
                 x: 220, y: 82,
-                classes: ["TNO-header-text"], style: "font-size: 16px",
+                classes: ["TNO-header-text"], style: "font-size: 15px",
                 replaceable: true
             },
             {
                 type: "text", text: "Party Name",
-                x: 236, y: 71,
-                classes: ["TNO-header-text"], style: "font-size: 17px",
+                x: 246, y: 154,
+                classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
             {
                 type: "text", text: "Ideology",
-                x: 236, y: 94,
-                classes: ["TNO-header-text"], style: "font-size: 17px",
+                x: 246, y: 171,
+                classes: ["TNO-header-text"], style: "font-size: 14px",
+                replaceable: true
+            },
+            {
+                type: "text", text: "Subideology",
+                x: 246, y: 188,
+                classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
             {
                 type: "text", text: "Election Label",
-                x: 236, y: 117,
-                classes: ["TNO-header-text"], style: "font-size: 17px",
+                x: 246, y: 208,
+                classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
             {
