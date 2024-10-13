@@ -130,8 +130,9 @@ body {
                 replaceable: true
             },
             {
-                type: "image", src: "superevent_new.png",
-                x: 0, y: 0,
+                type: "image", src: "pngwing.com.png",
+                x: 156, y: 175,
+                width: 62, height: 61
             },
             {
                 type: "text", text: "Quote\n-A person",
