@@ -1,6 +1,7 @@
 @font-face {
     font-family: troll;
     src: url("FuturaBT-Medium.ttf");
+    font-size: 25px; 
 }
 .element {
     position: absolute;
