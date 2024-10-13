@@ -129,12 +129,12 @@ body {
                 width: 443, height: 228,
                 replaceable: true
             },
-            {
+            /*{
                 type: "image", src: "pngwing.com.png",
                 x: 156, y: 175,
                 width: 64, height: 63,
                 style: "z-index: 10;"
-            },
+            },*/
             {
                 type: "text", text: "Quote\n-A person",
                 x: 58, y: 482,
