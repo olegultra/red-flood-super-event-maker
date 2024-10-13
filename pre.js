@@ -71,19 +71,19 @@ body {
             },
             {
                 type: "text", text: "Party Name",
-                x: 246, y: 154,
+                x: 246, y: 157,
                 classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
             {
                 type: "text", text: "Ideology",
-                x: 246, y: 171,
+                x: 246, y: 173,
                 classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
             {
                 type: "text", text: "Subideology",
-                x: 246, y: 188,
+                x: 246, y: 190,
                 classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
@@ -142,9 +142,9 @@ body {
             },
             {
                 type: "text", text: "Button Text",
-                x: 144, y: 452,
+                x: 144, y: 455,
                 width: 200,
-                classes: ["TNO-header-text"], style: "font-size: 20px; text-align: center; text-shadow: 1px 0 1px #000000, 0 1px 1px #000000, -1px 0 1px #000000, 0 -1px 1px #000000;",
+                classes: ["TNO-header-text"], style: "font-size: 18px; text-align: center; text-shadow: 1px 0 1px #000000, 0 1px 1px #000000, -1px 0 1px #000000, 0 -1px 1px #000000;",
                 replaceable: true
             },
             {
