@@ -127,7 +127,8 @@ body {
                 type: "image", src: "superevent_unknown.png",
                 x: 25, y: 243,
                 width: 443, height: 228,
-                replaceable: true
+                replaceable: true,
+                style: "z-index: -10"
             },
             /*{
                 type: "image", src: "pngwing.com.png",
@@ -139,7 +140,7 @@ body {
                 type: "text", text: "Quote\n-A person",
                 x: 58, y: 482,
                 width: 373,
-                classes: ["TNO-header-text"], style: "font-size: 18px; text-align: center;",
+                classes: ["TNO-header-text"], style: "font-size: 14px; text-align: center;",
                 replaceable: true
             },
             {
@@ -153,7 +154,7 @@ body {
                 type: "text", text: "Event Title",
                 x: 58, y: 528,
                 width: 386,
-                classes: ["TNO-header-text"], style: "font-size: 17px; text-align: center;",
+                classes: ["TNO-header-text"], style: "font-size: 14px; text-align: center;",
                 replaceable: true
             }
         ]
