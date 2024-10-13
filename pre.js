@@ -47,7 +47,7 @@ body {
             },
             {
                 type: "image", src: "заглушка.png",
-                x: 180, y: 81,
+                x: 182, y: 84,
                 classes: ["center"],
                 replaceable: true
             },
