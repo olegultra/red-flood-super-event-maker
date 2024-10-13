@@ -139,7 +139,7 @@ body {
                 type: "text", text: "Quote\n-A person",
                 x: 58, y: 482,
                 width: 373,
-                classes: ["TNO-info-text"], style: "font-size: 20px; text-align: center;",
+                classes: ["TNO-header-text"], style: "font-size: 18px; text-align: center;",
                 replaceable: true
             },
             {
@@ -153,7 +153,7 @@ body {
                 type: "text", text: "Event Title",
                 x: 58, y: 528,
                 width: 386,
-                classes: ["TNO-info-text"], style: "font-size: 20px; text-align: center;",
+                classes: ["TNO-header-text"], style: "font-size: 17px; text-align: center;",
                 replaceable: true
             }
         ]
