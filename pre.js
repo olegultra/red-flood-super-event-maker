@@ -132,8 +132,7 @@ body {
             {
                 type: "image", src: "pngwing.com.png",
                 x: 156, y: 175,
-                width: 64, height: 63,
-                z-index: 10;
+                width: 64, height: 63
             },
             {
                 type: "text", text: "Quote\n-A person",
