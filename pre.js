@@ -138,9 +138,9 @@ body {
             },*/
             {
                 type: "text", text: "Quote\n-A person",
-                x: 58, y: 482,
+                x: 58, y: 492,
                 width: 373,
-                classes: ["TNO-header-text"], style: "font-size: 14px; text-align: center;",
+                classes: ["TNO-header-text"], style: "font-size: 15px; text-align: center;",
                 replaceable: true
             },
             {
@@ -152,9 +152,9 @@ body {
             },
             {
                 type: "text", text: "Event Title",
-                x: 58, y: 528,
+                x: 54, y: 528,
                 width: 386,
-                classes: ["TNO-header-text"], style: "font-size: 14px; text-align: center;",
+                classes: ["TNO-header-text"], style: "font-size: 15px; text-align: center;",
                 replaceable: true
             }
         ]
