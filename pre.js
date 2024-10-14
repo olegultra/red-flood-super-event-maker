@@ -145,7 +145,7 @@ body {
             },
             {
                 type: "text", text: "Button Text",
-                x: 144, y: 455,
+                x: 142, y: 455,
                 width: 200,
                 classes: ["TNO-header-text"], style: "font-size: 18px; text-align: center; text-shadow: 1px 0 1px #000000, 0 1px 1px #000000, -1px 0 1px #000000, 0 -1px 1px #000000;",
                 replaceable: true
