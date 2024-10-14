@@ -53,20 +53,20 @@ body {
             },
             {
                 type: "text", text: "Country Name",
-                x: 220, y: 34,
-                classes: ["TNO-header-text"], style: "font-size: 15px",
+                x: 220, y: 35,
+                classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
             {
                 type: "text", text: "Faction Name",
-                x: 220, y: 62,
-                classes: ["TNO-header-text"], style: "font-size: 15px",
+                x: 220, y: 63,
+                classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
             {
                 type: "text", text: "Leader Name",
-                x: 220, y: 82,
-                classes: ["TNO-header-text"], style: "font-size: 15px",
+                x: 220, y: 83,
+                classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
             {
