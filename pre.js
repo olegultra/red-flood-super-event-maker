@@ -112,9 +112,9 @@ body {
             },
             {
                 type: "text", text: "Focus Name",
-                x: 254, y: 255,
+                x: 254, y: 256,
                 width: 240,
-                classes: ["TNO-header-text"], style: "font-size: 19px; text-align: center;",
+                classes: ["TNO-header-text"], style: "font-size: 18px; text-align: center;",
                 replaceable: true
             }
         ]
@@ -145,9 +145,9 @@ body {
             },
             {
                 type: "text", text: "Button Text",
-                x: 142, y: 455,
+                x: 141, y: 457,
                 width: 200,
-                classes: ["TNO-header-text"], style: "font-size: 18px; text-align: center; text-shadow: 1px 0 1px #000000, 0 1px 1px #000000, -1px 0 1px #000000, 0 -1px 1px #000000;",
+                classes: ["TNO-header-text"], style: "font-size: 17px; text-align: center; text-shadow: 1px 0 1px #000000, 0 1px 1px #000000, -1px 0 1px #000000, 0 -1px 1px #000000;",
                 replaceable: true
             },
             {
