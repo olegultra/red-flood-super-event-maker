@@ -59,7 +59,7 @@ body {
             },
             {
                 type: "text", text: "Faction Name",
-                x: 220, y: 63,
+                x: 220, y: 65,
                 classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
