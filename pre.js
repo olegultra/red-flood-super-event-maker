@@ -59,7 +59,7 @@ body {
             },
             {
                 type: "text", text: "Faction Name",
-                x: 220, y: 65,
+                x: 220, y: 66,
                 classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
@@ -145,14 +145,14 @@ body {
             },
             {
                 type: "text", text: "Button Text",
-                x: 141, y: 457,
+                x: 141, y: 459,
                 width: 200,
                 classes: ["TNO-header-text"], style: "font-size: 17px; text-align: center; text-shadow: 1px 0 1px #000000, 0 1px 1px #000000, -1px 0 1px #000000, 0 -1px 1px #000000;",
                 replaceable: true
             },
             {
                 type: "text", text: "Event Title",
-                x: 54, y: 528,
+                x: 54, y: 531,
                 width: 386,
                 classes: ["TNO-header-text"], style: "font-size: 15px; text-align: center;",
                 replaceable: true
