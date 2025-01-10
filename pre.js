@@ -102,8 +102,8 @@ body {
             },
             {
                 type: "image", src: "pol_piechart_overlay.png",
-                x: 158, y: 175,
-                width: 62, height: 61,
+                x: 154, y: 173,
+                width: 68, height: 66,
                 style: "z-index: 15;",
                 repleceable: true
             },
