@@ -100,10 +100,13 @@ body {
                 style: "border-radius: 50%; background-color: #888888;",
                 replaceable: true
             },
-            /*{
+            {
                 type: "image", src: "pol_piechart_overlay.png",
-                x: 141, y: 81,
-            },*/
+                x: 158, y: 175,
+                width: 62, height: 61,
+                style: "z-index: 15;",
+                repleceable: true
+            },
             {
                 type: "image", src: "заглушка.png",
                 x: 190, y: 288,
