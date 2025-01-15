@@ -93,13 +93,13 @@ body {
                 classes: ["TNO-header-text"], style: "font-size: 14px",
                 replaceable: true
             },
-            {
+            /*{
                 type: "circle",
                 x: 156, y: 175,
                 width: 62, height: 61,
                 style: "border-radius: 50%; background-color: #888888;",
                 replaceable: true
-            },
+            },*/
             {
                 type: "image", src: "pol_piechart_overlay.png",
                 x: 154, y: 173,
