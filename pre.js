@@ -32,6 +32,7 @@ body {
                 y: 56,
                 width: 82,
                 height: 50,
+                style: "z-index: 1;",
                 replaceable: true
             },
             {
@@ -39,59 +40,60 @@ body {
                 type: "image", src: "leader_unknown.png",
                 x: 18, y: 167,
                 width: 115, height: 154,
+                style: "z-index: 1;",
                 replaceable: true
             },
             {
                 type: "image", src: "hyzzE6n.png",
                 x: 0, y: 0,
-                style: "z-index: 2"
+                style: "z-index: 2;"
             },
             {
                 type: "image", src: "заглушка.png",
                 x: 182, y: 84,
-                classes: ["center"],
+                classes: ["center"], style: "z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Country Name",
                 x: 220, y: 35,
-                classes: ["TNO-header-text"], style: "font-size: 14px",
+                classes: ["TNO-header-text"], style: "font-size: 14px; z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Faction Name",
                 x: 220, y: 66,
-                classes: ["TNO-header-text"], style: "font-size: 14px",
+                classes: ["TNO-header-text"], style: "font-size: 14px; z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Leader Name",
                 x: 220, y: 83,
-                classes: ["TNO-header-text"], style: "font-size: 14px",
+                classes: ["TNO-header-text"], style: "font-size: 14px; z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Party Name",
                 x: 246, y: 157,
-                classes: ["TNO-header-text"], style: "font-size: 14px",
+                classes: ["TNO-header-text"], style: "font-size: 14px; z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Ideology",
                 x: 246, y: 173,
-                classes: ["TNO-header-text"], style: "font-size: 14px",
+                classes: ["TNO-header-text"], style: "font-size: 14px; z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Subideology",
                 x: 246, y: 190,
-                classes: ["TNO-header-text"], style: "font-size: 14px",
+                classes: ["TNO-header-text"], style: "font-size: 14px; z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Election Label",
                 x: 246, y: 208,
-                classes: ["TNO-header-text"], style: "font-size: 14px",
+                classes: ["TNO-header-text"], style: "font-size: 14px; z-index: 3;",
                 replaceable: true
             },
             /*{
@@ -111,14 +113,14 @@ body {
             {
                 type: "image", src: "заглушка.png",
                 x: 190, y: 288,
-                classes: ["center"], style: "transform: scale(90%) translate(-50%, -55%);",
+                classes: ["center"], style: "transform: scale(90%) translate(-50%, -55%); z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Focus Name",
                 x: 254, y: 256,
                 width: 240,
-                classes: ["TNO-header-text"], style: "font-size: 18px; text-align: center;",
+                classes: ["TNO-header-text"], style: "font-size: 18px; text-align: center; z-index: 3;",
                 replaceable: true
             }
         ]
@@ -132,7 +134,7 @@ body {
                 x: 25, y: 243,
                 width: 443, height: 228,
                 replaceable: true,
-                style: "z-index: 1"
+                style: "z-index: 1;"
             },
             /*{
                 type: "image", src: "pngwing.com.png",
@@ -144,21 +146,21 @@ body {
                 type: "text", text: "Quote\n-A person",
                 x: 58, y: 492,
                 width: 373,
-                classes: ["TNO-header-text"], style: "font-size: 15px; text-align: center;",
+                classes: ["TNO-header-text"], style: "font-size: 15px; text-align: center; z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Button Text",
                 x: 144, y: 457,
                 width: 200,
-                classes: ["TNO-header-text"], style: "font-size: 17px; text-align: center; text-shadow: 1px 0 1px #000000, 0 1px 1px #000000, -1px 0 1px #000000, 0 -1px 1px #000000;",
+                classes: ["TNO-header-text"], style: "font-size: 17px; text-align: center; text-shadow: 1px 0 1px #000000, 0 1px 1px #000000, -1px 0 1px #000000, 0 -1px 1px #000000; z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Event Title",
                 x: 54, y: 531,
                 width: 386,
-                classes: ["TNO-header-text"], style: "font-size: 15px; text-align: center;",
+                classes: ["TNO-header-text"], style: "font-size: 15px; text-align: center; z-index: 3;",
                 replaceable: true
             }
         ]
