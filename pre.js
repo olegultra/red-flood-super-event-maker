@@ -43,7 +43,8 @@ body {
             },
             {
                 type: "image", src: "hyzzE6n.png",
-                x: 0, y: 0
+                x: 0, y: 0,
+                style: "z-index: 2"
             },
             {
                 type: "image", src: "заглушка.png",
@@ -131,7 +132,7 @@ body {
                 x: 25, y: 243,
                 width: 443, height: 228,
                 replaceable: true,
-                style: "z-index: -10"
+                style: "z-index: 1"
             },
             /*{
                 type: "image", src: "pngwing.com.png",
