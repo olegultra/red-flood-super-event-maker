@@ -118,9 +118,9 @@ body {
             },
             {
                 type: "text", text: "Focus Name",
-                x: 254, y: 256,
+                x: 254, y: 259,
                 width: 240,
-                classes: ["TNO-header-text"], style: "font-size: 18px; text-align: center; z-index: 3;",
+                classes: ["TNO-header-text"], style: "font-size: 16px; text-align: center; z-index: 3;",
                 replaceable: true
             }
         ]
