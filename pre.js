@@ -80,19 +80,19 @@ body {
             },
             {
                 type: "text", text: "Ideology",
-                x: 246, y: 173,
+                x: 246, y: 174,
                 classes: ["TNO-header-text"], style: "font-size: 14px; z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Subideology",
-                x: 246, y: 190,
+                x: 246, y: 191,
                 classes: ["TNO-header-text"], style: "font-size: 14px; z-index: 3;",
                 replaceable: true
             },
             {
                 type: "text", text: "Election Label",
-                x: 246, y: 208,
+                x: 246, y: 209,
                 classes: ["TNO-header-text"], style: "font-size: 14px; z-index: 3;",
                 replaceable: true
             },
